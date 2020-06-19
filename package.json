@@ -1,0 +1,23 @@
+{
+  "name": "cotacoesapp",
+  "version": "1.0.0",
+  "description": "Um sistema para buscar cotações na bolsa de valores",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cotacoes",
+    "node.js",
+    "bolsa",
+    "de",
+    "valores"
+  ],
+  "author": "Rafael.Silva",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "request": "^2.88.2",
+    "yargs": "^15.3.1"
+  }
+}
